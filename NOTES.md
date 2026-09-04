@@ -1,5 +1,13 @@
 # Wayv Clipping Platform — Take-Home Notes
 
+## 🌍 Live Demo (Instant Review)
+You can test the fully functional production application directly without running it locally. The application is deployed on **Netlify** with a live **Neon PostgreSQL** database.
+
+👉 **[Live App: https://wayvclipping.netlify.app/](https://wayvclipping.netlify.app/)**
+
+*Tip: Use the **⚡ Dev Switch** dropdown in the top right corner of the live app to instantly switch between Admin and Creator accounts to test both user flows.*
+
+---
 ## 1. Setup Steps (Works on a clean machine)
 
 **Prerequisites:** Docker, Node.js 20+ (pnpm or npm)
